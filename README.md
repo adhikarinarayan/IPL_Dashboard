@@ -1,6 +1,6 @@
 # IPL Dashboard
 
-In this project, I have taken Data on IPL(Indian Premier League) from 2008 to 2020. I have connected two datasets IPL-ball-by-ball 200-2020 and IPL Matches 2008-2020
+In this project, I have taken Data on IPL(Indian Premier League) from 2008 to 2020. I have connected two datasets IPL-ball-by-ball 2008-2020 and IPL Matches 2008-2020
 
 
 ---
